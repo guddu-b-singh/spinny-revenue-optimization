@@ -82,16 +82,6 @@ Enables business teams to:
 
 ---
 
-## 📂 Files Included
-
-- `spinny_analysis.ipynb` – Full analysis notebook including data preprocessing, EDA, linear regression, & visualizations
-- `spinny-report.pdf` – Executive summary with business insights and recommendations  
-- `Spinny_Dashboard.md` – Dashboard visuals and link to interactive Tableau dashboard  
-- `data/spinny_raw_data.csv` – Original dataset before cleaning or transformations  
-- `data/spinny_cleaned_data.csv` – Final dataset used for all analysis and visualizations
-
----
-
 ## 📌 Business Recommendations
 
 1. **Optimize Pricing:**  
