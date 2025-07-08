@@ -50,6 +50,3 @@ Used `scipy.stats.linregress` to:
 - Visual storytelling using Tableau
 - Business-focused insight generation
 
-## 📌 Next Steps
-- Add NLP on customer reviews to improve model with sentiment scores
-- Automate ETL using Python scheduler (optional)
