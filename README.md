@@ -35,7 +35,7 @@ Used `scipy.stats.linregress` to:
 - Evaluate impact of individual variables on pricing
 
 ## 📊 Dashboard
-- [👉 View Tableau Dashboard](link_here)
+- [👉 View Tableau Dashboard](https://public.tableau.com/views/SpinnyRevenueGrowth_17381675701650/SpinnyRevenueGrowth?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Includes: Filters by brand, km, price, city
 - Visualizes trends in pricing, demand concentration, and conversion potential
 
