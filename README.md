@@ -1,4 +1,4 @@
-# spinny-used-car-price-optimization
+# Spinny Used Car Revenue Optimization using ETL, Python & Tableau
 
 ## End-to-end ETL, EDA, and price modeling project using Python, Scipy, and Tableau to optimize used car pricing for Spinny.
 
