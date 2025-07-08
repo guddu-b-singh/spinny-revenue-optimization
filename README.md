@@ -1,6 +1,6 @@
 # spinny-used-car-price-optimization
 
-# End-to-end ETL, EDA, and price modeling project using Python, Scipy, and Tableau to optimize used car pricing for Spinny.
+## End-to-end ETL, EDA, and price modeling project using Python, Scipy, and Tableau to optimize used car pricing for Spinny.
 
 
 ## 📌 Objective
@@ -12,11 +12,13 @@ Help Spinny improve its revenue and conversion rate by analyzing car listings an
 - Jupyter Notebook
 
 ## 🔁 Simulated ETL Process
-**Extract**: Raw CSV dataset with over 400k used car listings  
+**Extract**: Raw CSV dataset with over 400k used car listings 
+
 **Transform**:
 - Cleaned nulls, removed outliers using IQR
 - Created features: `car_age`, `mileage_group`, `price_category`
-- Grouped by brand, region, and km-driven for KPI extraction  
+- Grouped by brand, region, and km-driven for KPI extraction
+
 **Load**:
 - Cleaned and processed data exported to Tableau for dashboarding
 
