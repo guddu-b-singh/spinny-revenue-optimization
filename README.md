@@ -1,6 +1,7 @@
 # Spinny Used Car Revenue Optimization using ETL, Python & Tableau
 
-## End-to-end ETL, EDA, and price modeling project using Python, Scipy, and Tableau to optimize used car pricing for Spinny.
+
+## A complete end-to-end project to extract, transform, and analyze used car data for Spinny to uncover revenue-impacting insights using Python and Tableau.
 
 
 ## 📌 Objective
